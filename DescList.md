@@ -2,9 +2,9 @@
 
 Paragraph text.
 
-: How does this look?
+:  How does this look?
 
 Example
 
-~ How does this look?
+~  How does this look?
 
